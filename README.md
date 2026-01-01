@@ -1,6 +1,6 @@
 # Oi, eu sou o Willian 👋
 
-💻 Desenvolvedor procurando aprender cada vez mais. 
+💻 Desenvolvedor procurando aprender cada vez mais.\n 
 🌱 Atualmente aprendendo Java e JavaFX.
 ⚡ Gosto de criar projetos criativos ou que ajudem em problemas cotidianos.
 
