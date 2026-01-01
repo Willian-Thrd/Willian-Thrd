@@ -4,7 +4,7 @@
 🌱 Atualmente aprendendo Java e JavaFX.
 ⚡ Gosto de criar projetos criativos ou que ajudem em problemas cotidianos.
 
-## Formas de contato
 
-- Telefone +55 11 96446-7919
-- email business.will-theo@outlook.com
+### Se quiser entrar em contato, entre pelo seguinte email:
+
+business.will-theo@outlook.com
