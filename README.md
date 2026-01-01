@@ -8,6 +8,6 @@
 
 |-Linguagem-|
 |-----------|
-|---Java----|
-|---FXML----|
-|----CSS----|
+| Java      |
+| FXML      |
+| CSS       |
