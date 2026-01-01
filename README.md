@@ -6,7 +6,7 @@
 
 📫 Contato: business.will-theo@outlook.com
 
-|-Linguagem-|
+| Linguagem |
 |-----------|
 | Java      |
 | FXML      |
